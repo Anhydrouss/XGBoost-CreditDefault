@@ -1,4 +1,4 @@
-# XGBoost-Credit Deafult
+# XGBoost-Credit Default
 
 Output Summary
 
